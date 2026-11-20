@@ -1,2 +1,5 @@
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
+git config --global user.name "Nastia"
+git config --global user.email "naastiaa894523@gmail.com"
+
+UI Product Sprint
+Розробка інтерфейсу користувача за ТЗ у Figma
